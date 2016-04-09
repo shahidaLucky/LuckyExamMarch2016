@@ -1,4 +1,4 @@
-package system;
+package oop.design;
 
 public class EmployeeInfo{
 	

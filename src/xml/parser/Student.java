@@ -1,4 +1,4 @@
-package reader;
+package xml.parser;
 
 public class Student {
 
