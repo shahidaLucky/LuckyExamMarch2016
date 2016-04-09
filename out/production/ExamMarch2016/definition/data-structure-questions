@@ -1,0 +1,44 @@
+Please answer the below Data Structure Questions:
+
+
+1) why do we need data structure?
+
+
+2) List out the areas in which data structures are applied extensively?
+
+3) what is an Array?
+
+4) what is the difference between the Array and ArrayList?
+
+5) what is LinkedList?
+
+6) what is queue?
+
+7) what is stack?
+
+8) what is FIFO and LIFO?
+
+9) what is the order of complexity?
+
+10)what is the best case to search an element from an array?
+
+11)what is the worst case to search an element from an array?
+
+12) what is tree in data structure?
+
+13) what is graph in data structure?
+
+14) what is the difference between the HashTable and HashMap?
+
+15) What are the major data structures used in the following areas : RDBMS, Network data model and Hierarchical data model.
+
+16) How HashMap works in java?
+
+17)What is Big-(O)-notation?
+
+18)Outlined different kind of sorting algorithm with time complexity?
+
+19) Draw a table with time complexity in which it will summarize all the data structure feature's advantages and disadvantages.
+  a)In terms of adding element.
+  b)In terms of removing element.
+  c)In terms of searching element.
