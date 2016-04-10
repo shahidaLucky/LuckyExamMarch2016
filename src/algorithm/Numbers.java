@@ -33,6 +33,17 @@ public class Numbers {
 
 		//Continue for rest of the Sorting Algorithm....
 
+		// Quick Sort
+		algo.quickSort(num);
+		long quicksortExecutionTime = algo.executionTime;
+		System.out.println("Total Execution Time of " + num.length + " numbers in quick Sort take: " + quicksortExecutionTime + " milli sec ");
+
+		// Shell Sort
+		algo.shellSort(num);
+		long shellsortExecutionTime = algo.executionTime;
+		System.out.println("Total Execution Time of " + num.length + " numbers in shell Sort take: " + shellsortExecutionTime + " milli sec ");
+
+
 	}
 
 }
